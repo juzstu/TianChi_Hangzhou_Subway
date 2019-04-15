@@ -2,6 +2,7 @@
 # 全球城市计算AI挑战赛
 ### 比赛链接：https://tianchi.aliyun.com/competition/entrance/231708/introduction?spm=5176.12281925.0.0.507071376UQKMJ
 
+# 团队名称：蹭一波热度
 ## A榜：Rank4
 ## B榜：Rank7
 ## C榜：Rank4
